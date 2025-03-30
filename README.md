@@ -14,6 +14,8 @@ Study Time Tracking: Monitor and optimize learning sessions
 Quiz Scoring: Encouraging feedback with results
 Learning Schedules: AI-optimized study plans
 
+![Learning Buddy App](./assets/app_image.png)
+
 🎮 How To Use
 
 Enter your question or learning request in the text area
