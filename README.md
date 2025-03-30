@@ -50,7 +50,7 @@ Additional utility libraries (datetime, math, etc.)
 🧩 Architecture
 Learning Buddy uses an agentic approach that:
 
-1. Analyzes the user query
+1. Analyses the user query
 2. Determines the appropriate tools based on the request
 3. Uses reasoning to select the best approach for the child's age
 4. Generates a tailored response using the appropriate tool(s)
